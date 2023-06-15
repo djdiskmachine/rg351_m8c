@@ -9,9 +9,9 @@ Source files are included in the releases, so it may be possible to compile on d
 ## Thanks to lamaa for the m8c code that makes this thing work ##
 lamaa's repo is here: https://github.com/laamaa/m8c/
 
-## Download a release here
+## Clone the repo here
 
-https://github.com/jasonporritt/rg351_m8c/releases
+git clone git@github.com:djdiskmachine/rg351_m8c.git && cd rg351_m8c && git submodule update --init --recursive && git submodule foreach git checkout main 
 
 Download one of the rg351_m8c releases from the link above if you don't want to compile m8c yourself.
 
