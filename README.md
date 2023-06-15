@@ -11,8 +11,8 @@ lamaa's repo is here: https://github.com/laamaa/m8c/
 
 ## Clone the repo here
 
-git clone https://github.com/djdiskmachine/rg351_m8c.git && cd rg351_m8c && git submodule update --init --recursive && git submodule foreach git checkout main 
-Run the following line every time there's relevant updates to m8c to get the latest:
+git clone https://github.com/djdiskmachine/rg351_m8c.git && cd rg351_m8c && git submodule update --init --recursive && git submodule foreach git checkout main  
+Run the following line every time there's relevant updates to m8c to get the latest:  
 git submodule update --init --recursive && git submodule foreach git checkout main
 
 Download one of the rg351_m8c releases from the link above if you don't want to compile m8c yourself.
