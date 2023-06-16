@@ -15,7 +15,7 @@ git clone https://github.com/djdiskmachine/rg351_m8c.git && cd rg351_m8c && git 
 Run the following line every time there's relevant updates to m8c to get the latest:  
 git submodule update --init --recursive && git submodule foreach git checkout main
 
-Download one of the rg351_m8c releases from the link above if you don't want to compile m8c yourself.
+Compile m8c yourself by running the M8/setup/_build_m8c.sh script with the unit plugged into your computer via USB.
 
 ## Setup
 
